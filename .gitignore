@@ -1,1 +1,4 @@
+__pycache__/
 images/
+images_old/
+db_credentials.py
